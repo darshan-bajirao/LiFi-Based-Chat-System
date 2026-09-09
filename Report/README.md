@@ -1,0 +1,1 @@
+This folder contains the complete project report for the LiFi-Based Chat System. The report includes the introduction, objectives, system design, theoretical background, MATLAB and Simulink implementation, simulation results, discussion, conclusion, future scope, and references.
