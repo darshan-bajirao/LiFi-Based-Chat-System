@@ -1,0 +1,1 @@
+This folder contains screenshots and output images demonstrating the working of the LiFi-Based Chat System, including the Simulink model, transmitted and received signals, and successful message transmission results.
